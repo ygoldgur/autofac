@@ -1,0 +1,11 @@
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\bin\Debug\netcoreapp2.0\autofac_tutorial.deps.json
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\bin\Debug\netcoreapp2.0\autofac_tutorial.runtimeconfig.json
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\bin\Debug\netcoreapp2.0\autofac_tutorial.runtimeconfig.dev.json
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\bin\Debug\netcoreapp2.0\autofac_tutorial.dll
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\obj\Debug\netcoreapp2.0\autofac_tutorial.csprojResolveAssemblyReference.cache
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\obj\Debug\netcoreapp2.0\autofac_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\obj\Debug\netcoreapp2.0\autofac_tutorial.AssemblyInfoInputs.cache
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\obj\Debug\netcoreapp2.0\autofac_tutorial.AssemblyInfo.cs
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\bin\Debug\netcoreapp2.0\autofac_tutorial.pdb
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\obj\Debug\netcoreapp2.0\autofac_tutorial.dll
+C:\Users\yosef\Sandbox\autofac\autofac_tutorial\autofac_tutorial\obj\Debug\netcoreapp2.0\autofac_tutorial.pdb
